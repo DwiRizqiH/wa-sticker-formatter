@@ -1,5 +1,5 @@
 {
-  "name": "wa-sticker-formatter",
+  "name": "@d0v3riz/wa-sticker-formatter",
   "version": "4.4.4",
   "description": "Sticker Creator for WhatsApp",
   "main": "dist",
